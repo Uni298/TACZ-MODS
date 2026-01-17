@@ -1,4 +1,5 @@
 cd ..
 rmdir /s /q mods
-git clone https://github.com/Uni2980/TACZ-MODS.git
+git clone https://github.com/Uni298/TACZ-MODS.git
 move TACZ-MODS mods
+pause
